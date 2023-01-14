@@ -1,0 +1,11 @@
+{
+    "name": "MSum",
+    "version": "1.0.0",
+    "description": "multilingual meet sumarrizer",
+    "manifest_version": 3,
+    "author": "Vedant Pol",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "MSum"
+    }
+}
