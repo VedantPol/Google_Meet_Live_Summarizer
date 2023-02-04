@@ -1,11 +1,15 @@
 {
-    "name": "MSum",
+    "name": "QuickSum",
     "version": "1.0.0",
-    "description": "multilingual meet sumarrizer",
+    "description": "Multilingual Live Google-meet Sumarrizer",
     "manifest_version": 3,
     "author": "Vedant Pol",
+    "icons": { "16": "images/logo-16.png",
+            "32": "images/logo-32.png",
+           "48": "images/logo-48.png",
+          "128": "images/logo-128.png" },
     "action":{
         "default_popup": "index.html",
-        "default_title": "MSum"
+        "default_title": "QuickSum"
     }
 }

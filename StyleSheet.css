@@ -1,12 +1,19 @@
 
         textarea {
-            width: 400px;
-            height: 300px;
+            /* width: 400px;
+            height: 300px; */
             padding: 12px 20px;
             box-sizing: border-box;
-            border: 2px solid #ccc;
+            border: 2px solid rgb(14, 54, 30);
             border-radius: 4px;
-            background-color: #f8f8f8;
+            background-color: #75e490;
             font-size: 16px;
             
+          }
+          img {
+            border-radius: 5px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
           }
